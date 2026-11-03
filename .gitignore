@@ -1,0 +1,11 @@
+# Source data from educational assignments: do not publish without permission.
+data/private/
+*.xlsx
+*.xls
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
